@@ -1,7 +1,6 @@
 # My Portfolio 2019
 
-This is a simple portfolio built with [Svelte](https://svelte.dev/) and Vite. It
-includes a basic layout with some animated transitions.
+This is a simple portfolio built with [React](https://reactjs.org/) and Vite. It includes a basic layout with some interactive components.
 
 ## Development
 
@@ -17,3 +16,4 @@ includes a basic layout with some animated transitions.
    ```bash
    npm run build
    ```
+
