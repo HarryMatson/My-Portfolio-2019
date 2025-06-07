@@ -17,7 +17,3 @@ includes a basic layout with some animated transitions.
    ```bash
    npm run build
    ```
-
-The app entry point is `index.html` in the project root. Svelte components
-live in the `src` directory. Once the dev server is running, visit
-<http://localhost:5173/> to view the portfolio.
